@@ -1,0 +1,24 @@
+https://developer.mozilla.org/ko/
+
+var, let, const의 차이
+https://www.howdy-mj.me/javascript/var-let-const
+
+자바스크립트 ES5 ES6 차이
+https://hbsowo58.tistory.com/407
+
+자바스크립트 객체 구성
+프로퍼티 : 객체의 고유한 
+
+
+Class -> 0bject
+
+명사, 동사
+variable, properdy, member variable, field function, method
+
+Class
+    변수 3개, 함수 2개
+
+0bject1, 0bject2, 0bject3
+
+00P 0bject 0riented Programming
+
